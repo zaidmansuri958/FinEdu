@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/allerta</item>
+        <item>@font/b612</item>
+        <item>@font/baloo_bhaijaan</item>
+        <item>@font/balsamiq_sans_bold</item>
+        <item>@font/concert_one</item>
+        <item>@font/pt_sans_bold</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/rocknroll_one</item>
+    </array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/andoridApps/FinEdu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1455" />
+        <entry key="..\:/andoridApps/FinEdu/app/src/main/res/drawable/ic_baseline_insert_chart_24.xml" value="0.1455" />
+        <entry key="..\:/andoridApps/FinEdu/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/andoridApps/FinEdu/app/src/main/res/layout/fragment_books.xml" value="0.20416666666666666" />
+        <entry key="..\:/andoridApps/FinEdu/app/src/main/res/layout/fragment_module.xml" value="0.20416666666666666" />
+        <entry key="..\:/andoridApps/FinEdu/app/src/main/res/layout/navlayout.xml" value="0.2" />
+        <entry key="..\:/andoridApps/FinEdu/app/src/main/res/menu/navmenu.xml" value="0.2" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/drawable/arrow.xml" value="0.1375" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/drawable/book.xml" value="0.1375" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/drawable/bookcard.xml" value="0.1375" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/drawable/btn.xml" value="0.1375" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/drawable/card.xml" value="0.1375" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/drawable/edittext.xml" value="0.1375" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_forex.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_fundamental.xml" value="0.1" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_futures.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_signup.xml" value="0.19010416666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_stock_market.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_taxation.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_technical.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_view_pdf.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/activity_view_pdf_hindi.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/bookcard.xml" value="0.2" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/card.xml" value="0.33" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/fragment_books.xml" value="0.19010416666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/fragment_module.xml" value="0.1" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/layout/navlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/menu/navmenu.xml" value="0.22" />
+        <entry key="..\:/app/FinEdu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1455" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

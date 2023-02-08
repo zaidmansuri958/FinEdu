@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_stockMarket"
+        android:icon="@drawable/ic_baseline_insert_chart_24"
+        android:title="Stock Market"/>
+    <item
+        android:id="@+id/nav_fundamental"
+        android:icon="@drawable/ic_baseline_insert_chart_24"
+        android:title="Fundamental Analysis" />
+    <item
+        android:id="@+id/nav_technical"
+        android:icon="@drawable/ic_baseline_insert_chart_24"
+        android:title="Technical Analysis" />
+    <item
+        android:id="@+id/nav_future"
+        android:icon="@drawable/ic_baseline_insert_chart_24"
+        android:title="Futures" />
+    <item
+        android:id="@+id/nav_option"
+        android:icon="@drawable/ic_baseline_insert_chart_24"
+        android:title="Options" />
+    <item
+        android:id="@+id/nav_forex"
+        android:icon="@drawable/currency"
+        android:title="Currency Market" />
+
+    <item
+        android:id="@+id/nav_taxation"
+        android:icon="@drawable/ic_tax"
+        android:title="Taxation" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Log Out" />
+
+
+</menu>

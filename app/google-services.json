@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906219030468",
+    "project_id": "finedu-77e5d",
+    "storage_bucket": "finedu-77e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906219030468:android:79ee5ff0326ebf77f40691",
+        "android_client_info": {
+          "package_name": "com.example.finedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906219030468-6r36er8fon8a9hbek0hqvjl7nfgcgir6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2OXMJFReEpRbPTncxYnWEuUG1OAKlkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906219030468-6r36er8fon8a9hbek0hqvjl7nfgcgir6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
